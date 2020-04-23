@@ -60,6 +60,21 @@ but you'll have to implement those three above instructions first!
 ## Step 0: IMPORTANT: inventory what is here!
 
 * Make a list of files here.
+
+- Make a list of files here.
+  - /asm
+    - a bunch of files idk
+  - /ls8 - project for week
+    - /examples - example programs for inspiration
+    - cpu.py - python roleplaying as cpu
+    - ls8.py - makes cpu, loads and runs it
+    - README.md - Instructions for the project
+  - FAQ.md - Tons of info about computer architecture 
+  - LS8-cheatsheet.md - List of hexcodes for commands
+  - LS8-spec.md - Requirements for the LS-8
+  - README.md - More instructions 
+
+
 * Write a short 3-10-word description of what each file does.
 * Note what has been implemented, and what hasn't.
 * Read this whole file.
